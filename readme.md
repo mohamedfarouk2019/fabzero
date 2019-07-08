@@ -6,3 +6,7 @@ welcom to fablab 6th octber
 - vinyle cutter
 - shoop pot
 - modela mdx20 
+- electronic
+## contents
+
+hello :blush:
